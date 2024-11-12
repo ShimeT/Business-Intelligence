@@ -1,4 +1,4 @@
-# Business-Intelligence Project Machine learning with Pwer BI
+# Business-Intelligence Project  Power BI Machine learning 
 #TMachine Learning Approach For Heart Failure Prediction 
 
 ##Abstract 
